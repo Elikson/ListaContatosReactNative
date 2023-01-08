@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226082375921",
+    "project_id": "agendacompartilhada-2bd2d",
+    "storage_bucket": "agendacompartilhada-2bd2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226082375921:android:cc848d97b7c1a5c2714150",
+        "android_client_info": {
+          "package_name": "com.agendacompartilhada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226082375921-g91pg3fe5cfgpee91mk6fh9n4kangkeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDieGr_vzSc4vYgu2LcwHqcvbH4JBhdbl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226082375921-g91pg3fe5cfgpee91mk6fh9n4kangkeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
